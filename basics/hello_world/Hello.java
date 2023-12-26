@@ -1,5 +1,3 @@
-package basics.hello_world;
-
 // Introduction to Java
 // Author: Desmond Asiedu Asamoah
 // Date: 14/December/2023
